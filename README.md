@@ -2,7 +2,7 @@
 
 
 | Pre-trained Embeddings | Type | Language | Cite/Author | License | Kaggle Dataset |
-|:-|:-|:-|:-|:-|:-|
+|:-|:-:|:-:|:-|:-:|:-|
 | COMPOSES        | word2vec | eng | Baroni | | []() |
 | GloVe (6B)      |          | eng | Socher and Manning | | []()|
 | GloVe (42B)     |          | eng | Socher and Manning | | []()|
