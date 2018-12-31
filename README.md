@@ -11,7 +11,7 @@
 | GloVe (Twitter) |          | eng | Socher and Manning | | | | | [vegetables-stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-twitter)|
 | HLBL            |          | eng | Turian et al. | 2011 | | | | [vegetables-hlbl-embeddings](https://www.kaggle.com/alvations/vegetables-hlbl-embeddings) | 
 | Senna           |          | eng | Collobert and Weston | 2011   | | | | [vegetables-senna-embeddings](https://www.kaggle.com/alvations/vegetables-senna-embeddings) |
-| Word2Vec (Freebase) | word2vec | eng |   | |  | | | (https://github.com/chakki-works/chakin) | | | |  | (https://www.kaggle.com/alvations/vegetables-word2vec-freebase)[vegetables-google-word2vec-freebase] |
-| Word2Vec (News) | word2vec | eng |   | | | | | (https://www.kaggle.com/alvations/vegetables-word2vec-freebase)[vegetables-google-word2vec] |
+| Word2Vec (Freebase) | word2vec | eng |   | |  | | | (https://github.com/chakki-works/chakin) | | | |  | [vegetables-google-word2vec-freebase](https://www.kaggle.com/alvations/vegetables-word2vec-freebase) |
+| Word2Vec (News) | word2vec | eng |   | | | | | [vegetables-google-word2vec](https://www.kaggle.com/alvations/vegetables-word2vec) |
 | Word2Vec (Shiroyagi) | word2vec | jap | [Shiroyagi Corp. c.f. Chakin](https://github.com/chakki-works/chakin) | | | |  | [vegetables-shiroyagi-word2vec](https://www.kaggle.com/alvations/vegetables-shiroyagi-word2vec) | 
 
