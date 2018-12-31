@@ -3,11 +3,12 @@
 
 | Pre-trained Embeddings | Type | Language | Cite/Author | License | Kaggle Dataset |
 |:-|:-:|:-:|:-|:-:|:-|
-| COMPOSES        | word2vec | eng | Baroni | | []() |
+| COMPOSES        | word2vec | eng | Baroni | | [vegetables-composes-embeddings)](https://www.kaggle.com/alvations/vegetables-composes-embeddings) |
+| Dependency | word2vec | eng | Levy and Golberg (2014) | | [vegetables-dependency-embeddings]()|
 | GloVe (6B)      |          | eng | Socher and Manning | | []()|
 | GloVe (42B)     |          | eng | Socher and Manning | | []()|
 | GloVe (840B)    |          | eng | Socher and Manning | | []()|
-| GloVe (Twitter) |          | eng | Socher and Manning | | []()|
+| GloVe (Twitter) |          | eng | Socher and Manning | | [vegetables-stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-twitter)|
 | HLBL            |          | eng | Turian et al. (2011) | | [vegetables-hlbl-embeddings](https://www.kaggle.com/alvations/vegetables-hlbl-embeddings) | 
 | Senna           |          | eng | Collobert and Weston (2011)  | | [vegetables-senna-embeddings](https://www.kaggle.com/alvations/vegetables-senna-embeddings) |
 | Word2Vec (News) | word2vec | eng |   | | ()[vegetables-senna-embeddings] |
