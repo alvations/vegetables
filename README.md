@@ -2,7 +2,7 @@
 
 
 | Pre-trained Embeddings | Type | Language | Cite | Year | URL | Bib | License | Kaggle Dataset |
-|:-|:-:|:-:|:-|:-:|:-:|:-:|:-|
+|:-|:-:|:-:|:-|:-:|:-:|:-:|:-:|:-|
 | COMPOSES        | word2vec | eng | [Baroni et al.](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf) | 2014 | [url](http://clic.cimec.unitn.it/composes/semantic-vectors.html) | [bib]() | | [vegetables-composes-embeddings)](https://www.kaggle.com/alvations/vegetables-composes-embeddings) |
 | Dependency | word2vec | eng | Levy and Golberg | 2014 | | | | | [vegetables-dependency-embeddings]()|
 | GloVe (6B)      |          | eng | Socher and Manning | | | | | []()|
