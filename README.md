@@ -1,7 +1,7 @@
 # vegetables
 
 
-| Pre-trained Embeddings | Type | Language | Cite | Year | URL | Bib | License | Kaggle Dataset |
+| Pre-trained Embeddings | Type | Lang | Cite | Year | URL | Bib | License | Kaggle Dataset |
 |:-|:-:|:-:|:-|:-:|:-:|:-:|:-:|:-|
 | COMPOSES        | word2vec | eng | [Baroni et al.](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf) | 2014 | [url](http://clic.cimec.unitn.it/composes/semantic-vectors.html) | [bib]() | | [composes-embeddings](https://www.kaggle.com/alvations/vege-composes-embeddings) |
 | Dependency | word2vec | eng | Levy and Golberg | 2014 | | | | | [dependency-embeddings]()|
