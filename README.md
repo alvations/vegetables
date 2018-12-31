@@ -3,12 +3,12 @@
 
 | Pre-trained Embeddings | Type | Lang | Cite | Year | URL | Bib | License | Kaggle Dataset |
 |:-|:-:|:-:|:-|:-:|:-:|:-:|:-:|:-|
-| COMPOSES        | word2vec | eng | [Baroni et al.](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf) | 2014 | [url](http://clic.cimec.unitn.it/composes/semantic-vectors.html) | [bib]() | | [composes-embeddings](https://www.kaggle.com/alvations/vege-composes-embeddings) |
-| Dependency | word2vec | eng | Levy and Golberg | 2014 | | | | | [dependency-embeddings]()|
-| GloVe (6B)      |GloVe| eng | Socher and Manning | | | | | [stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-6b)|
-| GloVe (42B)     |GloVe| eng | Socher and Manning | | | | | [stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-42b)|
-| GloVe (840B)    |GloVe| eng | Socher and Manning | | | | | [stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-840b)|
-| GloVe (Twitter) |GloVe| eng | Socher and Manning | | | | | [stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-twitter)|
+| COMPOSES        | word2vec | eng | [Baroni et al.](http://www.aclweb.org/anthology/P14-1023) | 2014 | [url](http://clic.cimec.unitn.it/composes/semantic-vectors.html) | [bib]() | | [composes-embeddings](https://www.kaggle.com/alvations/vege-composes-embeddings) |
+| Dependency | word2vec | eng | [Levy and Golberg](http://www.aclweb.org/anthology/P14-2050) | 2014 | [url](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/)| | | | [dependency-embeddings](https://www.kaggle.com/alvations/vegetables-dependency-embeddings)|
+| GloVe (6B)      |GloVe| eng | Pennington et al. | 2014 | [url](https://www.aclweb.org/anthology/D14-1162) | | | [stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-6b)|
+| GloVe (42B)     |GloVe| eng | Pennington et al. | 2014 | [url](https://www.aclweb.org/anthology/D14-1162) || | | | [stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-42b)|
+| GloVe (840B)    |GloVe| eng | Pennington et al. | 2014 | [url](https://www.aclweb.org/anthology/D14-1162) || | | | [stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-840b)|
+| GloVe (Twitter) |GloVe| eng | Pennington et al. | 2014 | [url](https://www.aclweb.org/anthology/D14-1162) || | | | [stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-twitter)|
 | HLBL            |         | eng | Turian et al. | 2011 | | | | [hlbl-embeddings](https://www.kaggle.com/alvations/vegetables-hlbl-embeddings) | 
 | Senna           |          | eng | Collobert and Weston | 2011   | | | | [senna-embeddings](https://www.kaggle.com/alvations/vegetables-senna-embeddings) |
 | Word2Vec (Freebase) | word2vec | eng | | | | |  | [google-word2vec-freebase](https://www.kaggle.com/alvations/vegetables-word2vec-freebase) |
