@@ -1,9 +1,9 @@
 # vegetables
 
-Monolingual
+Monolingual 
 =====
 
-| Pre-trained Embeddings | Type | Lang | Cite | Year | Bib | License | Kaggle Dataset |
+| Pre-trained Embeddings | Type | Lang | Cite | Year | Other Langs | License | Kaggle Dataset |
 |:-|:-:|:-:|:-|:-:|:-:|:-:|:-|
 | [COMPOSES](http://clic.cimec.unitn.it/composes/semantic-vectors.html)        | word2vec | eng | [Baroni et al.](http://www.aclweb.org/anthology/P14-1023) | 2014 | [bib]() | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) | [composes-embeddings](https://www.kaggle.com/alvations/vege-composes-embeddings) |
 | [Dependency](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/) | word2vec | eng | [Levy and Golberg](http://www.aclweb.org/anthology/P14-2050) | 2014 | | | [dependency-embeddings](https://www.kaggle.com/alvations/vegetables-dependency-embeddings)|
