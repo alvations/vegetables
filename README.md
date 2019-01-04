@@ -1,5 +1,7 @@
 # vegetables
 
+Monolingual
+=====
 
 | Pre-trained Embeddings | Type | Lang | Cite | Year | URL | Bib | License | Kaggle Dataset |
 |:-|:-:|:-:|:-|:-:|:-:|:-:|:-:|:-|
@@ -15,5 +17,12 @@
 | Word2Vec (News) | word2vec | eng |  [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013| [url](https://code.google.com/archive/p/word2vec/) | | | ! [google-word2vec](https://www.kaggle.com/alvations/vegetables-word2vec) |
 | Word2Vec (Shiroyagi) | word2vec | jap | [Shiroyagi Corp. c.f. Chakin](https://github.com/chakki-works/chakin) | | | |  | [shiroyagi-word2vec](https://www.kaggle.com/alvations/vegetables-shiroyagi-word2vec) | 
 | ECO              | skip-embeds | eng | [Adam et al.](http://www.aclweb.org/anthology/E17-2081) | 2017 | [url](https://github.com/azpoliak/eco) | | | ! [eco-embeddings]() | 
-| HistWords        | word2vec | eng | [Hamilton et al.](https://aclweb.org/anthology/P/P16/P16-1141.pdf) | 2016 | [url](https://nlp.stanford.edu/projects/histwords/) | | | ! [histwords-embeddings]() | 
+
+
+Multilingual
+=====
+
+| Pre-trained Embeddings | Type | Cite | License | cmn | deu | eng | fre | jap | rus | #langs | Kaggle Dataset |
+|:-|:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [HistWords](https://nlp.stanford.edu/projects/histwords/)        | word2vec | [Hamilton et al. 2016](https://aclweb.org/anthology/P/P16/P16-1141.pdf) |  | ✓ | ✓ | ✓ | ✓ | | | | 4 | ! [histwords-embeddings]() | 
 
