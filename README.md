@@ -15,7 +15,7 @@ Monolingual
 | [Senna](https://ronan.collobert.com/senna/)           | LM2 | eng | [Collobert et al.](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) | 2011 |  | | [senna-embeddings](https://www.kaggle.com/alvations/vegetables-senna-embeddings) |
 | [Word2Vec (Freebase)](https://code.google.com/archive/p/word2vec/) | word2vec | eng | [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013| | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) | [google-word2vec-freebase](https://www.kaggle.com/alvations/vegetables-word2vec-freebase) |
 | [Word2Vec (News)](https://code.google.com/archive/p/word2vec/) | word2vec | eng |  [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013 | | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) | ! [google-word2vec](https://www.kaggle.com/alvations/vegetables-word2vec) |
-| Word2Vec (Shiroyagi) | word2vec | jap | [Shiroyagi Corp. c.f. Chakin](https://github.com/chakki-works/chakin) | | | |  | [shiroyagi-word2vec](https://www.kaggle.com/alvations/vegetables-shiroyagi-word2vec) | 
+| Word2Vec (Shiroyagi) | word2vec | jap | [Shiroyagi Corp. c.f. Chakin](https://github.com/chakki-works/chakin) | | |  | [shiroyagi-word2vec](https://www.kaggle.com/alvations/vegetables-shiroyagi-word2vec) | 
 | [ECO](https://github.com/azpoliak/eco)   | skip-embeds | eng | [Adam et al.](http://www.aclweb.org/anthology/E17-2081) | 2017 | | | ! [eco-embeddings]() | 
 
 
