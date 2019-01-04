@@ -22,7 +22,9 @@ Monolingual
 Multilingual
 =====
 
-| Pre-trained Embeddings | Type | #Langs | Langs | Year | Cite | Bib | License |  Kaggle Dataset |
+| Pre-trained Embeddings | Type | #Langs | Langs | Cite | Year | Bib | License |  Kaggle Dataset |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|:-|
+| [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot) | Senna | 117 | ... | [Al-Rfou et al.](http://www.google.com/url?q=http%3A%2F%2Fwww.aclweb.org%2Fanthology%2FW13-3520&sa=D&sntz=1&usg=AFQjCNHFu1aPKusZX5amgWa_RrOP9cbh6w) | 2013 | [bib]() | | |
 | [HistWords](https://nlp.stanford.edu/projects/histwords/)        | word2vec |  4 | cmn,deu,eng,fre | [Hamilton et al.](https://aclweb.org/anthology/P/P16/P16-1141.pdf) | 2016 | [bib]() | [![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](https://opendatacommons.org/licenses/pddl/) | ! [histwords-embeddings]() | 
 | [Fasttext](https://fasttext.cc/) | fasttext | 157 | ... | [Grave et al.](http://www.lrec-conf.org/proceedings/lrec2018/pdf/627.pdf) | 2018 | [bib]() | [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) | ! [fasttext-embeddings]() | 
+
