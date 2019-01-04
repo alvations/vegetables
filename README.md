@@ -14,4 +14,6 @@
 | Word2Vec (Freebase) | word2vec | eng | [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013| [url](https://code.google.com/archive/p/word2vec/) | |  | [google-word2vec-freebase](https://www.kaggle.com/alvations/vegetables-word2vec-freebase) |
 | Word2Vec (News) | word2vec | eng |  [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013| [url](https://code.google.com/archive/p/word2vec/) | | | [google-word2vec](https://www.kaggle.com/alvations/vegetables-word2vec) |
 | Word2Vec (Shiroyagi) | word2vec | jap | [Shiroyagi Corp. c.f. Chakin](https://github.com/chakki-works/chakin) | | | |  | [shiroyagi-word2vec](https://www.kaggle.com/alvations/vegetables-shiroyagi-word2vec) | 
+| ECO              | skip-embeds | eng | [Adam et al.](http://www.aclweb.org/anthology/E17-2081) | 2017 | [url](https://github.com/azpoliak/eco) | | | [eco-embeddings]() | 
+| HistWords        | word2vec | eng | [Hamilton et al.](https://aclweb.org/anthology/P/P16/P16-1141.pdf) | 2016 | [url](https://nlp.stanford.edu/projects/histwords/) | | | [histwords-embeddings]() | 
 
