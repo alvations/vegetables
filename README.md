@@ -22,7 +22,7 @@ Monolingual
 Multilingual
 =====
 
-| Pre-trained Embeddings | Type | Cite | License | #Langs | Langs | Kaggle Dataset |
-|:-|:-:|:-:|:-:|:-:|:-|:-|
-| [HistWords](https://nlp.stanford.edu/projects/histwords/)        | word2vec | [Hamilton et al. 2016](https://aclweb.org/anthology/P/P16/P16-1141.pdf) [[bib]()] | [![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](https://opendatacommons.org/licenses/pddl/) |  4 | cmn,deu,eng,fre | ! [histwords-embeddings]() | 
+| Pre-trained Embeddings | Type | #Langs | Langs | Cite | Bib | License |  Kaggle Dataset |
+|:-|:-:|:-:|:-:|:-:|:-:|:-|:-|
+| [HistWords](https://nlp.stanford.edu/projects/histwords/)        | word2vec |  4 | cmn,deu,eng,fre | [Hamilton et al. 2016](https://aclweb.org/anthology/P/P16/P16-1141.pdf) [[bib]()] | [![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](https://opendatacommons.org/licenses/pddl/) | ! [histwords-embeddings]() | 
 
