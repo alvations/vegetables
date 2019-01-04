@@ -11,7 +11,7 @@
 | GloVe (Twitter) |GloVe| eng | [Pennington et al.](https://www.aclweb.org/anthology/D14-1162) | 2014 | [url](https://nlp.stanford.edu/projects/glove/)  || | | | [stanford-glove-twitter](https://www.kaggle.com/alvations/vegetables-stanford-glove-twitter)|
 | Turian Embeddings |  Brown, C&W, HLBL | eng | Turian et al. | 2011 | | | | [hlbl-embeddings](https://www.kaggle.com/alvations/vegetables-hlbl-embeddings) | 
 | Senna           | LM2 | eng | [Collobert et al.](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) | 2011   | [url](https://ronan.collobert.com/senna/) |  | | [senna-embeddings](https://www.kaggle.com/alvations/vegetables-senna-embeddings) |
-| Word2Vec (Freebase) | word2vec | eng | | | | |  | [google-word2vec-freebase](https://www.kaggle.com/alvations/vegetables-word2vec-freebase) |
-| Word2Vec (News) | word2vec | eng |   | | | | | [google-word2vec](https://www.kaggle.com/alvations/vegetables-word2vec) |
+| Word2Vec (Freebase) | word2vec | eng | [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013| [url](https://code.google.com/archive/p/word2vec/) | |  | [google-word2vec-freebase](https://www.kaggle.com/alvations/vegetables-word2vec-freebase) |
+| Word2Vec (News) | word2vec | eng |  [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013| [url](https://code.google.com/archive/p/word2vec/) | | | [google-word2vec](https://www.kaggle.com/alvations/vegetables-word2vec) |
 | Word2Vec (Shiroyagi) | word2vec | jap | [Shiroyagi Corp. c.f. Chakin](https://github.com/chakki-works/chakin) | | | |  | [shiroyagi-word2vec](https://www.kaggle.com/alvations/vegetables-shiroyagi-word2vec) | 
 
