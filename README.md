@@ -24,5 +24,5 @@ Multilingual
 
 | Pre-trained Embeddings | Type | Cite | License | #Langs | Langs | Kaggle Dataset |
 |:-|:-:|:-:|:-|:-:|:-:|:-:|
-| [HistWords](https://nlp.stanford.edu/projects/histwords/)        | word2vec | [Hamilton et al. 2016](https://aclweb.org/anthology/P/P16/P16-1141.pdf) | 4 | cmn,deu,eng,fre | ! [histwords-embeddings]() | 
+| [HistWords](https://nlp.stanford.edu/projects/histwords/)        | word2vec | [Hamilton et al. 2016](https://aclweb.org/anthology/P/P16/P16-1141.pdf) | |  4 | cmn,deu,eng,fre | ! [histwords-embeddings]() | 
 
