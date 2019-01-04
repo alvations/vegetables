@@ -5,7 +5,7 @@ Monolingual
 
 | Pre-trained Embeddings | Type | Lang | Cite | Year | Bib | License | Kaggle Dataset |
 |:-|:-:|:-:|:-|:-:|:-:|:-:|:-|
-| [Senna](https://ronan.collobert.com/senna/)           | LM2 | eng | [Collobert et al.](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) | 2011 |  | | [senna-embeddings](https://www.kaggle.com/alvations/vegetables-senna-embeddings) |
+| [Senna](https://ronan.collobert.com/senna/)           | LM2 | eng | [Collobert et al.](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) | 2011 |  | [![License](https://img.shields.io/badge/License-Others-red.svg)](https://ronan.collobert.com/senna/download.html) | [senna-embeddings](https://www.kaggle.com/alvations/vegetables-senna-embeddings) |
 | [Turian Embeddings](https://www.kaggle.com/alvations/turian-embeddings) |  Brown, C&W, HLBL | eng | [Turian et al.](http://anthology.aclweb.org/P/P10/P10-1040.pdf) | 2011 | | | ! [hlbl-embeddings](https://www.kaggle.com/alvations/vegetables-hlbl-embeddings) | 
 | [Word2Vec (News)](https://code.google.com/archive/p/word2vec/) | word2vec | eng |  [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013 | | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) | [google-word2vec](https://www.kaggle.com/alvations/vegetables-google-word2vec) |
 | [Word2Vec (Freebase)](https://code.google.com/archive/p/word2vec/) | word2vec | eng | [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013| | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) | [google-word2vec-freebase](https://www.kaggle.com/alvations/vegetables-google-word2vec-freebase) |
