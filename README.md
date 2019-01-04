@@ -23,6 +23,6 @@ Multilingual
 =====
 
 | Pre-trained Embeddings | Type | #Langs | Langs | Year | Cite | Bib | License |  Kaggle Dataset |
-|:-|:-:|:-:|:-:|:-:|:-:|:-|:-|
+|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|:-|
 | [HistWords](https://nlp.stanford.edu/projects/histwords/)        | word2vec |  4 | cmn,deu,eng,fre | [Hamilton et al.](https://aclweb.org/anthology/P/P16/P16-1141.pdf) | 2016 | [[bib]()] | [![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](https://opendatacommons.org/licenses/pddl/) | ! [histwords-embeddings]() | 
 
