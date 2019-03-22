@@ -57,7 +57,11 @@ Monolingual
 | [COMPOSES](http://clic.cimec.unitn.it/composes/semantic-vectors.html)        | word2vec | eng | [Baroni et al.](http://www.aclweb.org/anthology/P14-1023) | 2014 | [bib]() | [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) | [composes-embeddings](https://www.kaggle.com/alvations/vegetables-composes-embeddings) |
 | [Dependency](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/) | word2vec | eng | [Levy and Golberg](http://www.aclweb.org/anthology/P14-2050) | 2014 | | [![License](https://img.shields.io/badge/License-Unknown-ff69b4.svg)]() | [dependency-embeddings](https://www.kaggle.com/alvations/vegetables-dependency-embeddings)|
 | [Word2Vec (Shiroyagi)](https://github.com/shiroyagicorp/japanese-word2vec-model-builder) | word2vec | jap | [Shiroyagi Corp.](http://aial.shiroyagi.co.jp/2017/02/japanese-word2vec-model-builder/) | 2017 |  | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [shiroyagi-word2vec](https://www.kaggle.com/alvations/vegetables-shiroyagi-word2vec) | 
+
+<!-- 
+
 | [ECO](https://github.com/azpoliak/eco)   | skip-embeds | eng | [Adam et al.](http://www.aclweb.org/anthology/E17-2081) | 2017 | | [![License](https://img.shields.io/badge/License-Unknown-ff69b4.svg)]() | ! [eco-embeddings]() | 
+
 
 
 Multilingual
@@ -69,3 +73,5 @@ Multilingual
 | [HistWords](https://nlp.stanford.edu/projects/histwords/)        | word2vec |  4 | cmn,deu,eng,fre | [Hamilton et al.](https://aclweb.org/anthology/P/P16/P16-1141.pdf) | 2016 | [bib]() | [![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](https://opendatacommons.org/licenses/pddl/) | ! [histwords-embeddings]() | 
 | [Fasttext](https://fasttext.cc/) | fasttext | 157 | ... | [Grave et al.](http://www.lrec-conf.org/proceedings/lrec2018/pdf/627.pdf) | 2018 | [bib]() | [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) | ! [fasttext-embeddings]() | 
 
+
+-->
