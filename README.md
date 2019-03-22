@@ -1,4 +1,28 @@
-# vegetables
+# Vegetables 
+
+This is a collection of word embeddings repackaged for easy machine loading and human reading. 
+
+Each set of embeddings should come with the following files:
+ 
+ - `.tsv` is a tab separated file where the 
+   - (i) first column is the word/token, 
+   - (ii) second column is the count (if the original pre-trained embedding didn't save any count, it will be set to -1), 
+   - (iii) the third to the last columns form the actual embedding for the word/token in the first column.
+ - `.txt` is the key words; same as the first column in the `.tsv` file.
+ - `.npy` is the word embedding that can be directly loaded with `numpy`; same as the third to last columns in the `.tsv` file.
+ - `.pkl` is a pickled file with its keys as the word/token and the value is the embeddings as a `list(float)` type.
+ 
+ 
+Usage
+====
+
+```
+import pickle 
+import numpy as np
+
+
+```
+
 
 Monolingual 
 =====
@@ -6,7 +30,7 @@ Monolingual
 | Pre-trained Embeddings | Type | Lang | Cite | Year | Bib | License | Kaggle Dataset |
 |:-|:-:|:-:|:-|:-:|:-:|:-:|:-|
 | [Senna](https://ronan.collobert.com/senna/)           | LM2 | eng | [Collobert et al.](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) | 2011 |  | [![License](https://img.shields.io/badge/License-Others-red.svg)](https://ronan.collobert.com/senna/download.html) | [senna-embeddings](https://www.kaggle.com/alvations/vegetables-senna-embeddings) |
-| [Turian Embeddings](https://www.kaggle.com/alvations/turian-embeddings) |  Brown, C&W, HLBL | eng | [Turian et al.](http://anthology.aclweb.org/P/P10/P10-1040.pdf) | 2011 | | [![License](https://img.shields.io/badge/License-Unknown-ff69b4.svg)]() | ! [hlbl-embeddings](https://www.kaggle.com/alvations/vegetables-hlbl-embeddings) | 
+| [Turian Embeddings](https://www.kaggle.com/alvations/turian-embeddings) |  Brown, C&W, HLBL | eng | [Turian et al.](http://anthology.aclweb.org/P/P10/P10-1040.pdf) | 2011 | | [![License](https://img.shields.io/badge/License-Unknown-ff69b4.svg)]() | [hlbl-embeddings](https://www.kaggle.com/alvations/vegetables-hlbl-embeddings) | 
 | [Word2Vec (News)](https://code.google.com/archive/p/word2vec/) | word2vec | eng |  [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013 | | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) | [google-word2vec](https://www.kaggle.com/alvations/vegetables-google-word2vec) 
 | [Word2Vec (Freebase)](https://code.google.com/archive/p/word2vec/) | word2vec | eng | [Mikolov et al.](https://arxiv.org/abs/1301.3781) | 2013| | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) | [google-word2vec-freebase](https://www.kaggle.com/alvations/vegetables-google-word2vec-freebase) |
 | [morphoRNN](https://nlp.stanford.edu/~lmthang/morphoNLM/) | word2veec | eng | [Luong et al.](http://www.aclweb.org/anthology/W13-3512) | 2013 | | [![License](https://img.shields.io/badge/License-Unknown-ff69b4.svg)]() | | 
