@@ -12,7 +12,8 @@ Each set of embeddings should come with the following files:
    - same as the first column in the `.tsv` file.
  - `.npy` is the word embedding that can be directly loaded with `numpy`
    - same as the third to last columns in the `.tsv` file.
- - `.pkl` is a pickled file with its keys as the word/token and the value is the embeddings as a `list(float)` type.
+ - `.pkl` is a pickled file with its keys as the word/token and the count of the word/token.
+   - if the original pre-trained embedding didn't save any count, it will be set to -1
  
  
 Usage
