@@ -8,19 +8,33 @@ Each set of embeddings should come with the following files:
    - (i) first column is the word/token, 
    - (ii) second column is the count (if the original pre-trained embedding didn't save any count, it will be set to -1), 
    - (iii) the third to the last columns form the actual embedding for the word/token in the first column.
- - `.txt` is the key words; same as the first column in the `.tsv` file.
- - `.npy` is the word embedding that can be directly loaded with `numpy`; same as the third to last columns in the `.tsv` file.
+ - `.txt` is the key words
+   - same as the first column in the `.tsv` file.
+ - `.npy` is the word embedding that can be directly loaded with `numpy`
+   - same as the third to last columns in the `.tsv` file.
  - `.pkl` is a pickled file with its keys as the word/token and the value is the embeddings as a `list(float)` type.
  
  
 Usage
 ====
 
-```
-import pickle 
-import numpy as np
+```python
+>>> import pickle 
+>>> import numpy as np
 
-
+>>> embeddings = np.load('hlbl.rcv1.original.50d.npy')
+>>> tokens = [line.strip() for line in open('hlbl.rcv1.original.50d.txt')]
+>>> embeddings[tokens.index('hello')]
+array([-0.21167406, -0.04189226,  0.22745571, -0.09330438,  0.13239339,
+        0.25136262, -0.01908735, -0.02557277,  0.0029353 , -0.06194451,
+       -0.22384156,  0.04584747,  0.03227248, -0.13708033,  0.17901117,
+       -0.01664691,  0.09400477,  0.06688628, -0.09019949, -0.06918809,
+        0.08437972, -0.01485273, -0.12062263,  0.05024147, -0.00416972,
+        0.04466985, -0.05316647,  0.00998635, -0.03696947,  0.10502578,
+       -0.00190554,  0.03435732, -0.05715087, -0.06777468, -0.11803425,
+        0.17845355,  0.18688948, -0.07509124, -0.16089943,  0.0396672 ,
+       -0.05162677, -0.12486628, -0.03870481,  0.0928738 ,  0.06197058,
+       -0.14603543,  0.04026282,  0.14052328,  0.1085517 , -0.15121481])
 ```
 
 
